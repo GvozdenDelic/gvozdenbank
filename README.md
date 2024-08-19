@@ -9,3 +9,4 @@ The project is currently in progress with following planned features:
 - Unit testing with Jest (TDD approach)
 - Support for multiple bank account types
 - Improved bank account service layer logic, so only bankers can create and delete bank accounts
+- Live demo
